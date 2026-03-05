@@ -8,4 +8,7 @@ spring.datasource.password=
 
 # visiting api location(url)  
 http://localhost:8080/api/analysis/xxx  
-exp:  http://localhost:8080/api/analysis/device-usage
+exp:  http://localhost:8080/api/analysis/device-usage  
+
+# visiting the frontend(url)  
+http://localhost:8080/index.html
