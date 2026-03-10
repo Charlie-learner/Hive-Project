@@ -2,8 +2,6 @@
 
 > **A Big Data Analytics Platform for Global Finance and Macroeconomics**
 
-[English](https://www.google.com/search?q=%23english-version) | [中文版](https://www.google.com/search?q=%23chinese-version)
-
 ---
 
 ### 📖 Introduction
@@ -65,11 +63,6 @@ mvn clean spring-boot:run
 
 **4. Access the Dashboard**
 Open your web browser and navigate to: `http://localhost:8080/index.html`
-
-### 🔮 Future Work (AI + Finance Integration)
-
-* Implement Machine Learning models (e.g., LSTM, XGBoost) to predict stock index movements based on macroeconomic indicators.
-* Deploy real-time streaming analytics using Apache Kafka and Spark Streaming.
 
 ---
 
@@ -133,8 +126,3 @@ mvn clean spring-boot:run
 
 **4. 访问可视化看板**
 打开浏览器，访问前端控制台：`http://localhost:8080/index.html`
-
-### 🔮 未来展望 (AI+金融方向升级)
-
-* 引入机器学习算法（如 LSTM 时间序列预测、XGBoost），基于历史宏观指标预测未来的股票指数波动。
-* 接入 Apache Kafka 与 Spark Streaming，实现金融市场数据的实时流计算与监控。
